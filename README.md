@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ankush-sharma-13
-- 👀 I’m interested in learning new things to level up my knowledge day by day...
--  I'm pursuing BTECH(CSE)...
-- 🌱 I’m passionate with my work to learn..
+
 - 
 
 <!---
